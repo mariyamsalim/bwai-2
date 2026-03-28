@@ -9,7 +9,8 @@ Welcome to the workshop! Learn how to build and deploy a MCP server on Google Cl
 
 If this is your first time attending, please refer to the guides below!
 
-1. [Prerequisites](prerequisites.md)
+1. [Prerequisites](prerequisites.md)  
    Make sure you have all the necessary tools and accounts ready before starting.
-2. [Claim GCP Credit](claim-gcp-credit.md)
+
+2. [Claim GCP Credit](claim-gcp-credit.md)  
    Step-by-step instructions to claim your Google Cloud credits.
