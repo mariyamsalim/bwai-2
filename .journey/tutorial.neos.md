@@ -106,14 +106,14 @@ Now, let's extend our Travel MCP server by adding a new tool to fetch tourist at
 
 Don't forget to exit Gemini CLI via double CTRL+C shortcut.
 
-Then you need to navigate travel-mcp directory
+Then you need to navigate travel-mcp directory.
 
 ```bash
 cd
 cd cloudshell_open/bwai-2/travel-mcp
 ```
 
-Open the `main.py` file in your repository and append the following tool function at the appropriate location you can use the open editor button to edit easily using code editor mode.
+Open the `main.py` file in your repository and append the following tool function at the appropriate location. You can use the open editor button to edit easily using code editor mode.
 
 ```python
 @mcp.tool()
